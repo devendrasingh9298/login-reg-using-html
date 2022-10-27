@@ -1,0 +1,50 @@
+body {
+  background-image: url('./login1.jpg');
+}
+div{
+    background-image: url('./login4.jpg');
+    width: 350px;
+    height: 350px;
+    margin-left: 600px;
+    margin-top: 150px;
+    border: 1px solid white;
+    border-radius: 5px;
+    image-resolution: 100px;
+    text-align: center;
+   }
+   h2{
+    color: white;
+    font: weight 700px;
+    margin-top: 50px;
+   }
+   #user{
+    width: 250px;
+    height: 40px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 6px;
+    text-align: center;
+   }
+   #password{
+    width: 250px;
+    height: 40px;
+    margin-top: 30px;
+    border: none;
+    border-radius: 6px;
+    text-align: center;
+    }
+   .signin_btn{
+    columns: white;
+    width: 250px;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 80px;
+    background-color: rgb(20, 147, 231);
+    color: white;
+    font-size: 20px;
+    margin-top: 40px;
+   }
+   p{
+        color: white;
+        margin-top: 0px;
+    }

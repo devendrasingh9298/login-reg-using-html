@@ -1,0 +1,104 @@
+body {
+    background-image: url('./login1.jpg');
+  }
+  .parent{
+    background-image: url('./login2.jpg');
+    width: 790px;
+    height: 720px;
+    margin-left: 400px;
+    margin-top: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    image-resolution: 100px;
+   }
+   .child{
+    margin-left: 100px;
+    color:gold;
+   }
+h2{
+    margin-left: 100px;
+    color: white;
+}
+p{
+    margin-left: 100px;
+    margin-top: 0px;
+    color: white;
+}
+.fname{
+    height: 30px;
+    width: 400px;
+}
+.label-div{
+    margin-top: -50px;
+}
+#email{
+    height: 30px;
+    width: 400px;
+}
+#password{
+    display: flex;
+}
+#pass{
+    width: 270px;
+    height: 30px;
+}
+#repass{
+    width: 270px;
+    height: 30px;
+}
+#repasstype{
+    margin-left: 55px;
+}
+#address{
+    display: flex;
+    text-align: center;
+}
+#address1{
+
+}
+#address2{
+margin-left: 55px;
+}
+#fline{
+width: 270px;
+height: 30px;
+}
+#sline{
+width: 270px;
+height: 30px;
+}
+#citystate{
+    display: flex;
+    text-align: center;
+}
+#city{
+width: 270px;
+height: 30px;
+}
+#state{
+width: 270px;
+height: 30px;
+}
+#states{
+    margin-left: 55px;
+}
+#submitbtn{
+    margin-left: 295px;
+    margin-top: 30px;
+    width: 200px;
+    height: 40px;
+    border-radius: 12px;
+    border: 2px solid gray;
+    background-color:turquoise;
+    color: brown;
+    font-size: 20px;
+}
+#previous {
+    text-align: center;
+    font-weight: 700;
+    padding: 10px;
+}
+#dbirth{
+    width: 100px;
+    height: 30px;
+}
